@@ -1,4 +1,21 @@
-# Object Initialization Lab
+Highly Recommended Labs:
+Anagram Detector
+Email Parser (Optional lab: try to solve without regex, just do some console testing instead of rspec )
+Person Lab
+Cash Register
+Count Sentences
+Class Variables and Class Methods Lab (can skip if you understand already)
+Advanced Class Methods Lab
+OO TicTacToe (Super important for setting up CLI)
+My Pets && Banking (if you have issues with these, walk through the has_many lab)
+Has Many Through
+Inheritance Lab
+Modules Lab (Optional lab: just understand the difference between Modules and Classes)
+Super Lab
+Mass Assignments Lab
+Triangle Lab (for fun)
+Working with APIs && Remote Data
+TicTacToe AI && Music Library CLI (really just go through the Phase 1 Final Projects Module)# Object Initialization Lab
 
 ## Objectives
 
